@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 Currently Working On:
-- I'm currently developing **[YelpCamp](https://github.com/ericlo31/YelpCamp)** – a full-stack web application inspired by Yelp, where users can share and review campgrounds. It's built using **Node.js**, **Express**, **MongoDB**, and **Bootstrap**.
+- I'm currently developing **[YelpCamp](https://github.com/ericlo31/yelpcamp-project)** – a full-stack web application inspired by Yelp, where users can share and review campgrounds. It's built using **Node.js**, **Express**, **MongoDB**, and **Bootstrap**.
 
 ---
 
