@@ -1,8 +1,6 @@
 <h1 align="center">Hi there. I'm Eric Lorenzo-Almánzar</h1>
 <h3 align="center">BS in Computer Science</h3>
 
-- 🔭 I’m currently working on **YelpCamp**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-lorenzo-05ab4624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-lorenzo-05ab4624a" height="30" width="40" /></a>
@@ -14,3 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericlo31&label=Profile%20views&color=0e75b6&style=flat" alt="ericlo31" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlo31&show_icons=true&locale=en&layout=compact" alt="ericlo31" /></p>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
