@@ -3,6 +3,11 @@
 
 ---
 
+### 🌱 Currently Working On:
+- I'm currently developing **[YelpCamp](https://github.com/ericlo31/YelpCamp)** – a full-stack web application inspired by Yelp, where users can share and review campgrounds. It's built using **Node.js**, **Express**, **MongoDB**, and **Bootstrap**.
+
+---
+
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/eric-lorenzo-05ab4624a" target="_blank">
