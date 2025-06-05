@@ -82,6 +82,6 @@
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlo31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlo31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
