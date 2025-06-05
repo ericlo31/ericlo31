@@ -77,11 +77,12 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ericlo31&show_icons=true&theme=github_dark&count_private=true&hide_title=false&hide_border=true" alt="GitHub Stats" />
-  <img height="2000em" src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5&hide_border=true" alt="GitHub Streak" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ericlo31&show_icons=true&theme=github_dark&count_private=true&hide_title=false&hide_border=true" alt="GitHub Stats" />
+  <img height="190em" src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlo31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlo31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
 
