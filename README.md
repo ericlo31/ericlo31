@@ -81,10 +81,8 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ericlo31&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" height="220" />
+  <img src=<img src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5" alt="GitHub Streak" height="220" />
 </p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue" alt="GitHub Streak" height="220" /></a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ericlo31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
