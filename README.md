@@ -77,11 +77,8 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlo31&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="220" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5" alt="GitHub Streak" height="220" />
+  <img src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5&hide_border=true" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericlo31&show_icons=true&theme=github_dark" height="220" />
 </p>
 
 <p align="left">
