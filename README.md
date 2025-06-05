@@ -74,13 +74,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5&hide_border=true" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ericlo31&show_icons=true&theme=github_dark" height="220" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericlo31&show_icons=true&theme=github_dark&count_private=true&hide_title=false&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&border_radius=5&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ericlo31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlo31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
