@@ -77,7 +77,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlo31&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericlo31&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="220" />
 </p>
 
 <p align="left">
