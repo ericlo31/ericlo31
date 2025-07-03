@@ -79,7 +79,7 @@
 <p align="left">
   <img height="190em" src="https://github-readme-stats-hazel-two-41.vercel.app/api?username=ericlo31&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=true" alt="GitHub Stats" />
 
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com?user=ericlo31&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img height="190em" src="https://streak-stats.demolab.com?user=ericlo31&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
 <p align="left">
