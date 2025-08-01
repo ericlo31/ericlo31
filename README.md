@@ -80,7 +80,7 @@
 <p align="left">
   <img height="190em" src="https://github-readme-stats-hazel-two-41.vercel.app/api?username=ericlo31&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=true" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ericlo31&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ericlo31&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="left">
